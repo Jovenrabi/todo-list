@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project VK</string>
+    <string name="add_button_description">Add Button</string>
+    <string name="reset_button_description">Reset Button</string>
+</resources>
